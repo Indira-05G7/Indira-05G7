@@ -53,6 +53,14 @@ Tools
 
 ---
 
+## 📊 GitHub Stats
+
+![Indira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Indira-05G7&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Indira-05G7&layout=compact&theme=tokyonight)
+
+---
+
 ## 📊 Coding Profiles
 
 LeetCode  
