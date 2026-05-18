@@ -11,7 +11,8 @@
 - 🎓 B.Tech Computer Science Student
 - 💡 Interested in building real-world software solutions
 - 🧠 Solved 100+ problems on LeetCode
-- 🤖 Built AI-based Resume Job Matcher
+- 🤖 Built AI-powered Resume Job Matcher
+- 🌱 Currently learning React and improving DSA
 
 ---
 
@@ -20,76 +21,77 @@
 ### AI Resume Job Matcher
 AI-powered tool that matches resumes with relevant job descriptions using NLP techniques.
 
-Tech Stack:
-Python, NLP, Machine Learning, Streamlit
+**Tech Stack:** Python • NLP • Machine Learning • Streamlit
 
 ---
 
-### Online Bookstore
-Frontend web application for an online bookstore with cart and billing functionality.
+### Travel Itinerary Planner
+Smart travel planning application that helps users organize trips by generating itineraries, manage destinations, and plan schedules efficiently.
 
-Tech Stack:
-HTML, CSS, JavaScript
+**Tech Stack:** HTML • CSS • JavaScript • React
+
+---
+
+### Blood Bank Management System
+Management system for handling donor records, blood availability, requests, and inventory tracking.
+
+**Tech Stack:** Java • Database • HTML • CSS
+
+---
+
+### FakeBuster AI
+AI-powered fake news detection system that analyzes textual content and predicts whether information is genuine or misleading using machine learning techniques.
+
+**Tech Stack:** Python • Machine Learning • NLP
 
 ---
 
 ## 🛠 Tech Stack
 
-Languages  
-- Python  
-- Java
-- c 
+### Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,c" />
+</p>
 
-Web Development  
-- HTML  
-- CSS  
-- JavaScript  
-- React (Learning)
+### Web Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+</p>
 
-Tools  
-- Git  
-- GitHub  
-- VS Code  
+### Tools & Platforms
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Indira-05G7&show_icons=true&count_private=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Indira-05G7&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Indira-05G7&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indira-05G7&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 ## 📊 Coding Profiles
 
-LeetCode  
+🟠 LeetCode  
 https://leetcode.com/u/indira0201/
 
-GeeksforGeeks  
+🟢 GeeksforGeeks  
 https://www.geeksforgeeks.org/profile/mutyalaindir1lfo/
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn  
+🔗 LinkedIn  
 www.linkedin.com/in/mutyala-indira-mallarapu-1992b7319
 
+---
 
-
-<!--
-**Indira-05G7/Indira-05G7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Always learning, building, and growing.
