@@ -26,7 +26,7 @@ AI-powered tool that matches resumes with relevant job descriptions using NLP te
 ---
 
 ### Travel Itinerary Planner
-Smart travel planning application that helps users organize trips by generating itineraries, manage destinations, and plan schedules efficiently.
+Smart travel planning application that helps users organize trips, generate itineraries, and manage schedules efficiently.
 
 **Tech Stack:** HTML • CSS • JavaScript • React
 
@@ -40,7 +40,7 @@ Management system for handling donor records, blood availability, requests, and 
 ---
 
 ### FakeBuster AI
-AI-powered fake news detection system that analyzes textual content and predicts whether information is genuine or misleading using machine learning techniques.
+AI-powered fake news detection system that predicts whether information is genuine or misleading using machine learning.
 
 **Tech Stack:** Python • Machine Learning • NLP
 
@@ -49,19 +49,20 @@ AI-powered fake news detection system that analyzes textual content and predicts
 ## 🛠 Tech Stack
 
 ### Languages
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 
 ### Web Development
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
-</p>
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-### Tools & Platforms
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -69,9 +70,11 @@ AI-powered fake news detection system that analyzes textual content and predicts
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Indira-05G7&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Indira-05G7&show_icons=true&theme=radical" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indira-05G7&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indira-05G7&layout=compact&theme=radical" />
+
+<img src="https://streak-stats.demolab.com?user=Indira-05G7&theme=radical" />
 
 </p>
 
