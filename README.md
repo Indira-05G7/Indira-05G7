@@ -34,10 +34,9 @@ Smart travel planning application that helps users organize trips, generate itin
 ---
 
 ### Blood Bank Management System
-Management system for handling donor records, blood availability, requests, and inventory tracking.
+A Python-based management system for handling donor records, blood availability, blood requests, and inventory management efficiently.
 
-**Tech Stack:** Java • SQL • HTML • CSS
-
+**Tech Stack:** Python
 ---
 
 ### FakeBuster AI
