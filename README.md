@@ -10,7 +10,7 @@
 
 - 🎓 B.Tech Computer Science Student
 - 💡 Interested in building real-world software solutions
-- 🧠 Solved 100+ coding problems
+- 🧠 Solved 450+ coding problems
 - 🤖 Built AI-powered applications and web projects
 - 🌱 Currently learning React and improving DSA
 - 🚀 Exploring software engineering and problem-solving
