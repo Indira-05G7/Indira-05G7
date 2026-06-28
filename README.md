@@ -94,7 +94,7 @@ https://leetcode.com/u/indira0201/
 https://www.geeksforgeeks.org/profile/mutyalaindir1lfo/
 
 🟠 CodeChef 
-https://www.codechef.com/users/u23a81a05g7
+https://www.codechef.com/users/u23a81a05g7/
 
 ---
 
