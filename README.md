@@ -20,6 +20,7 @@
 ## 🚀 Projects
 
 ### AI Resume Job Matcher
+
 AI-powered tool that matches resumes with relevant job descriptions using NLP techniques.
 
 **Tech Stack:** Python • NLP • Machine Learning • Streamlit
