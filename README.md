@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation header (reliable host - not Vercel) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Indira+%F0%9F%91%8B;Computer+Science+Undergraduate;Java+%7C+Full+Stack+%7C+DSA+Enthusiast;450%2B+Problems+Solved+on+LeetCode+%26+GFG" alt="Hi there, I'm Indira - Computer Science Undergraduate" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Indira+%F0%9F%91%8B;Computer+Science+Undergraduate;Java+%7C+Full+Stack+%7C+DSA+Enthusiast" alt="Hi there, I'm Indira - Computer Science Undergraduate" />
 
 # Mallarapu Mutyala Indira
 
@@ -26,7 +26,7 @@
 
 - 🎓 B.Tech in **Computer Science & Engineering**, Sri Vasavi Engineering College — CGPA **8.78/10** (Expected 2027)
 - 💻 Strong foundations in **Java, Data Structures & Algorithms, OOP, SQL, and DBMS**
-- 🛠️ Experienced in building desktop & web applications using **Java, JDBC, and MySQL**
+- 🛠️ Experienced in building desktop & web applications.
 - 🧩 Solved **450+ coding problems** on LeetCode & GeeksforGeeks
 - 🌱 Currently exploring **AI-powered applications**, **Full Stack Development**, and **Cloud Platforms**
 - 📜 Certified in **SAP ABAP Cloud**, **ServiceNow (CSA)**, and **Oracle OCI Generative AI**
