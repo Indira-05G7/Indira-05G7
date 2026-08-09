@@ -24,9 +24,9 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in **Computer Science & Engineering**, Sri Vasavi Engineering College — CGPA **8.78/10** (Expected 2027)
+- 🎓 B.Tech in **Computer Science & Engineering**, Sri Vasavi Engineering College — CGPA **8.83/10** (Expected 2027)
 - 💻 Strong foundations in **Java, Data Structures & Algorithms, OOP, SQL, and DBMS**
-- 🛠️ Experienced in building desktop & web applications using **Java, JDBC, and MySQL**
+- 🛠️ Experienced in building desktop & web applications.
 - 🧩 Solved **450+ coding problems** on LeetCode & GeeksforGeeks
 - 🌱 Currently exploring **AI-powered applications**, **Full Stack Development**, and **Cloud Platforms**
 - 📜 Certified in **SAP ABAP Cloud**, **ServiceNow (CSA)**, and **Oracle OCI Generative AI**
