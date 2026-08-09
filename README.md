@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- Typing animation header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Indira+%F0%9F%91%8B;Computer+Science+Undergraduate;Java+%7C+Full+Stack+%7C+DSA+Enthusiast" alt="Typing SVG" />
+<!-- Typing animation header (reliable host - not Vercel) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Indira+%F0%9F%91%8B;Computer+Science+Undergraduate;Java+%7C+Full+Stack+%7C+DSA+Enthusiast;450%2B+Problems+Solved+on+LeetCode+%26+GFG" alt="Hi there, I'm Indira - Computer Science Undergraduate" />
 
-</div>
+# Mallarapu Mutyala Indira
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mallarapu%20Mutyala%20Indira&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Java%20%26%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+**Aspiring Software Engineer &nbsp;|&nbsp; Java & Full Stack Developer**
+
 </div>
 
 <p align="center">
@@ -24,9 +24,9 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in **Computer Science & Engineering**, Sri Vasavi Engineering College — CGPA **8.83/10** (Expected 2027)
+- 🎓 B.Tech in **Computer Science & Engineering**, Sri Vasavi Engineering College — CGPA **8.78/10** (Expected 2027)
 - 💻 Strong foundations in **Java, Data Structures & Algorithms, OOP, SQL, and DBMS**
-- 🛠️ Experienced in building desktop & web applications.
+- 🛠️ Experienced in building desktop & web applications using **Java, JDBC, and MySQL**
 - 🧩 Solved **450+ coding problems** on LeetCode & GeeksforGeeks
 - 🌱 Currently exploring **AI-powered applications**, **Full Stack Development**, and **Cloud Platforms**
 - 📜 Certified in **SAP ABAP Cloud**, **ServiceNow (CSA)**, and **Oracle OCI Generative AI**
@@ -76,9 +76,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IndiraMallarapu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndiraMallarapu&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=IndiraMallarapu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=IndiraMallarapu&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<!-- If either card above shows broken, it's the free hosting service being temporarily rate-limited -
+     just refresh the page after a few minutes; the underlying data isn't lost. -->
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IndiraMallarapu&theme=tokyonight&hide_border=true" />
@@ -151,4 +155,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<div align="center">
+  <sub>⭐️ Thanks for stopping by! ⭐️</sub>
+</div>
