@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Indira-05G7&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Indira-05G7?label=Followers&style=flat&color=2E9EF7" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=IndiraMallarapu&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/IndiraMallarapu?label=Followers&style=flat&color=2E9EF7" alt="Followers"/>
 </p>
 
 ---
@@ -76,20 +76,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Indira-05G7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indira-05G7&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IndiraMallarapu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndiraMallarapu&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indira-05G7&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IndiraMallarapu&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Indira-05G7&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IndiraMallarapu&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Indira-05G7&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IndiraMallarapu&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -122,7 +122,7 @@
 </table>
 
 <p align="center">
-  <a href="https://github.com/Indira-05G7"><img src="https://img.shields.io/badge/View%20All%20Projects-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/IndiraMallarapu"><img src="https://img.shields.io/badge/View%20All%20Projects-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
