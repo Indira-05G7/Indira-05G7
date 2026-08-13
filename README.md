@@ -133,13 +133,53 @@
 
 ### 📜 Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SAP-Certified%20Back--End%20Developer%20ABAP%20Cloud-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ServiceNow-Certified%20System%20Administrator-81B5A1?style=flat-square&logo=servicenow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-OCI%20Generative%20AI%20Professional-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EduSkills-Java%20Full%20Stack-2E9EF7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/NPTEL-Internet%20of%20Things%20(Elite)-orange?style=flat-square"/>
-</p>
+### 📜 Certifications
+
+<div align="center">
+
+<details>
+<summary><b>🎯 Salesforce Certified — Agentforce Specialist</b> · Dec 2025</summary>
+<br/>
+<img src="https://raw.githubusercontent.com/IndiraMallarapu/IndiraMallarapu/main/assets/certs/agentforce-specialist.png" width="600"/>
+</details>
+
+<details>
+<summary><b>📊 Deloitte — Data Analytics Job Simulation</b> · Forage · Jun 2025</summary>
+<br/>
+<img src="https://raw.githubusercontent.com/IndiraMallarapu/IndiraMallarapu/main/assets/certs/deloitte-data-analytics.png" width="600"/>
+</details>
+
+<details>
+<summary><b>🤖 Google for Developers — Android Developer Virtual Internship</b> · AICTE EduSkills · 2024</summary>
+<br/>
+<img src="https://raw.githubusercontent.com/IndiraMallarapu/IndiraMallarapu/main/assets/certs/google-android-dev-internship.png" width="600"/>
+</details>
+
+<details>
+<summary><b>☕ EduSkills — Java Full Stack</b> · Nov 2024</summary>
+<br/>
+<img src="https://raw.githubusercontent.com/IndiraMallarapu/IndiraMallarapu/main/assets/certs/java-full-stack.png" width="600"/>
+</details>
+
+<details>
+<summary><b>🌐 NPTEL (Elite) — Introduction to Internet of Things</b> · IIT Kharagpur · 2025</summary>
+<br/>
+<img src="https://raw.githubusercontent.com/IndiraMallarapu/IndiraMallarapu/main/assets/certs/nptel-iot.png" width="600"/>
+</details>
+
+<details>
+<summary><b>🧩 SAP Certified — Back-End Developer, ABAP Cloud</b> · Aug 2026</summary>
+<br/>
+<img src="https://raw.githubusercontent.com/IndiraMallarapu/IndiraMallarapu/main/assets/certs/sap-abap-cloud.png" width="600"/>
+</details>
+
+<details>
+<summary><b>🛠️ ServiceNow Certified System Administrator (CSA)</b> · Jul 2026</summary>
+<br/>
+<img src="https://raw.githubusercontent.com/IndiraMallarapu/IndiraMallarapu/main/assets/certs/servicenow-csa.png" width="600"/>
+</details>
+
+</div>
 
 ---
 
