@@ -115,14 +115,6 @@
       <b>Stack:</b> Python • Streamlit • FastAPI • NLP • CV
     </td>
   </tr>
-  <tr>
-    <td width="50%" colspan="2">
-      <h4>🧳 Travel Itinerary Planner</h4>
-      A responsive web app enabling users to create and manage personalized travel plans with dynamic itinerary generation, built during a team hackathon.
-      <br/><br/>
-      <b>Stack:</b> HTML • CSS • JavaScript
-    </td>
-  </tr>
 </table>
 
 <p align="center">
