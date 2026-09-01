@@ -99,12 +99,12 @@
 ---
 
 ### 💬 Let's Connect
-
+<div align="center">
 <a href="https://www.linkedin.com/in/mutyala-indira-mallarapu-1992b7319"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mutyalaindiramallarapu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://mutyalaindira-portfolio.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-2E9EF7?style=flat-square&logo=netlify&logoColor=white"/></a>
 
-<i>"Turning ideas into code, one commit at a time."</i>
+<i align="center">"Turning ideas into code, one commit at a time."</i>
 
 </div>
 
