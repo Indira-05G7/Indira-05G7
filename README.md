@@ -98,33 +98,6 @@
 
 ---
 
-### 🏆 Featured Projects
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h4>🎯 Smart Placement & Recruitment Management System</h4>
-      Desktop-based placement management system with role-based modules for Admin, Recruiter, and Student — featuring authentication, drive management, and interview scheduling.
-      <br/><br/>
-      <b>Stack:</b> Java 17 • Java Swing • JDBC • MySQL
-    </td>
-    <td width="50%">
-      <h4>🕵️ FakeBuster AI</h4>
-      AI-powered phishing & deepfake detection platform built during a 24-hour national-level hackathon, with real-time analysis of text, URLs, and multimedia.
-      <br/><br/>
-      <b>Stack:</b> Python • Streamlit • FastAPI • NLP • CV
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/IndiraMallarapu"><img src="https://img.shields.io/badge/View%20All%20Projects-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-<div align="center">
-
 ### 💬 Let's Connect
 
 <a href="https://www.linkedin.com/in/mutyala-indira-mallarapu-1992b7319"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
