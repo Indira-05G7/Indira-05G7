@@ -1,128 +1,210 @@
 <div align="center">
 
-<!-- Typing Animation Header -->
+<!-- Animated Header -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Indira+%F0%9F%91%8B;Computer+Science+Undergraduate;Java+%7C+Full+Stack+%7C+DSA+Enthusiast" alt="Hi there, I'm Indira - Computer Science Undergraduate" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Indira&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
-# Mallarapu Mutyala Indira
+<!-- Typing Animation -->
 
-**Aspiring Software Engineer  |  Java & Full Stack Developer**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Full+Stack+Developer+💻;Java+Developer+☕;DSA+Enthusiast+🎯;Spring+Boot+Developer+⚡;React+Developer+⚛️;Building+Real-World+Projects+🚀" alt="Typing SVG" />
 
-</div>
+<br>
+
+<!-- Social Links -->
 
 <p align="center">
-  <a href="https://mutyalaindira-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2E9EF7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mutyala-indira-mallarapu-1992b7319">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="mutyala-indira-mallarapu-1992b7319">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mutyalaindiramallarapu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IndiraMallarapu&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/IndiraMallarapu?label=Followers&style=flat&color=2E9EF7" alt="Followers"/>
-</p>
+<!-- Animated Divider -->
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### 🚀 About Me
+</div>
 
-* 🎓 B.Tech in **Computer Science & Engineering**, Sri Vasavi Engineering College — CGPA **8.78/10** (Expected 2027)
-* 💻 Strong foundations in **Java, Data Structures & Algorithms, OOP, SQL, and DBMS**
-* 🛠️ Experienced in building desktop & web applications
-* 🧩 Solved **450+ coding problems** on LeetCode & GeeksforGeeks
-* 🌱 Currently exploring **AI-powered applications**, **Full Stack Development**, and **Cloud Platforms**
-* 📜 Certified in **SAP ABAP Cloud**, **ServiceNow (CSA)**, and **Oracle OCI Generative AI**
-* ⚡ Fun fact: I enjoy turning ideas into working prototypes at hackathons under tight deadlines!
+<!-- About Me -->
 
----
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🧰 Tech Stack
+### 👩‍💻 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,mysql,mongodb,html,css,js,react,git,github,vscode&perline=6" />
-</p>
+```javascript
+const indira = {
+    location: "India 🇮🇳",
+    role: "Full Stack Developer",
+    
+    currentlyLearning: [
+        "Java",
+        "Spring",
+        "Spring Boot",
+        "React",
+        "Data Structures & Algorithms"
+    ],
 
-<table align="center">
-  <tr>
-    <td valign="top" width="33%">
-      <b>Languages</b><br/>
-      Java • Python • C • SQL
-    </td>
-    <td valign="top" width="33%">
-      <b>Core Java</b><br/>
-      OOP • Collections • Exception Handling
-    </td>
-    <td valign="top" width="33%">
-      <b>Frameworks</b><br/>
-      JDBC • Java Swing
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="33%">
-      <b>Databases</b><br/>
-      MySQL • MongoDB
-    </td>
-    <td valign="top" width="33%">
-      <b>Web</b><br/>
-      HTML • CSS • JavaScript • React
-    </td>
-    <td valign="top" width="33%">
-      <b>Tools</b><br/>
-      Git • GitHub • VS Code
-    </td>
-  </tr>
-</table>
+    interests: [
+        "Problem Solving",
+        "Web Development",
+        "Backend Development",
+        "AI/ML"
+    ],
 
----
+    goal: "Build scalable and meaningful software 🚀",
 
-### 📊 GitHub Stats
+    lifeLoop: function() {
+        while (alive) {
+            learn();
+            code();
+            solve();
+            build();
+            repeat();
+        }
+    }
+};
+```
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=IndiraMallarapu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=IndiraMallarapu&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<br clear="right"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IndiraMallarapu&theme=tokyonight&hide_border=true" />
-</p>
+<!-- Divider -->
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IndiraMallarapu&theme=tokyonight" width="95%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IndiraMallarapu&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+<!-- Tech Stack -->
 
----
-
-### 💬 Let's Connect
+<h2 align="center">
+  ⚡ Tech Arsenal
+</h2>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mutyala-indira-mallarapu-1992b7319">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
-</a>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<a href="mailto:mutyalaindiramallarapu@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
-</a>
+#### 🎨 Frontend
 
-<a href="https://mutyalaindira-portfolio.netlify.app">
-  <img src="https://img.shields.io/badge/-Portfolio-2E9EF7?style=flat-square&logo=netlify&logoColor=white"/>
-</a>
+<div align="center">
 
-<br><br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-<i>"Turning ideas into code, one commit at a time."</i>
+</div>
+
+#### ⚙️ Backend
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+
+</div>
+
+</td>
+
+<td valign="top" width="50%">
+
+#### 🗄️ Database
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+</div>
+
+#### 💻 Languages & Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C- A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- Divider -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- GitHub Statistics -->
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=IndiraMallarapu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=IndiraMallarapu&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" />
 
 </div>
 
 <div align="center">
-  <sub>⭐️ Thanks for stopping by! ⭐️</sub>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndiraMallarapu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=IndiraMallarapu&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7" />
+
+</div>
+
+<!-- Divider -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- Current Focus -->
+
+<h2 align="center">🚀 Current Focus</h2>
+
+<div align="center">
+
+| 🎯 Area            | 📚 Learning                  |
+| ------------------ | ---------------------------- |
+| ☕ Backend          | Java & Spring Boot           |
+| ⚛️ Frontend        | React                        |
+| 🧠 Problem Solving | Data Structures & Algorithms |
+| 🗄️ Database       | MySQL & MongoDB              |
+| 🏗️ Development    | Full Stack Applications      |
+
+</div>
+
+<!-- Quote -->
+
+<h2 align="center">💭 Developer Mindset</h2>
+
+<div align="center">
+
+> "First solve the problem. Then write the code." 💻
+
+<br>
+
+⭐ **Keep Learning • Keep Building • Keep Improving** ⭐
+
+</div>
+
+<!-- Footer -->
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42F6,100:00F7F7&height=120&section=footer" />
+
 </div>
